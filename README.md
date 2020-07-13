@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Sujeet!](https://sujeet-agrahari.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -15,10 +15,10 @@
 
 Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working on a project [Chatty](https://github.com/sujeet-agrahari/Chatty)
+- 🌱 I’m currently learning NestJs & Typescript
+- 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design)
+- 💬 Ask me about anything [here](https://github.com/sujee-agrahari/sujeet-agrahari/issues)
 
 **Languages and Tools:**  
 
@@ -33,7 +33,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
