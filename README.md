@@ -1,7 +1,7 @@
 ### Hi there, I'm [Sujeet!](https://sujeet-agrahari.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
 </a>
 <a href="https://twitter.com/SujeetAgrahari_">
   <img align="left" alt="Sujeet Agrahari | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
