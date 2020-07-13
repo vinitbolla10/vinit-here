@@ -35,7 +35,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 [![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
 
-<a href="https://github.com/sujeet-agrahari/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
