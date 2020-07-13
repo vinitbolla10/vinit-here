@@ -3,8 +3,8 @@
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/SpiralNerd">
+  <img align="left" alt="Sujeet Agrahari | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
@@ -35,10 +35,10 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 [![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=sujeet-agrahari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sujeet-agrahari/awesome-database-design)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/sujeet-agrahari/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/sujeet-agrahari/sujeet-agrahari.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=anuraghazra.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet-agrahari&repo=sujeet-agrahari.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
