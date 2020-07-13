@@ -1,13 +1,13 @@
 ### Hi there, I'm [Sujeet!](https://sujeet-agrahari.github.io) 👋
 
 <a href="https://stackoverflow.com/users/9266709/sujeet-agrahari">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
+  <img align="left" alt="Sujeet Agrahari | Stackoverflow" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sujeet-agrahari-a2b6a9110/">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
+  <img align="left" alt="Sujeet's Linkedin" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SujeetAgrahari_">
-  <img align="left" alt="Sujeet Agrahari | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Sujeet Agrahari | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 
