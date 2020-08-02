@@ -1,4 +1,4 @@
-### Hi there, I'm [Vinit!](https://sujeet-agrahari.github.io) 👋
+### Hi there, I'm [Vinit!](https://vinitbolla10.github.io/vinit/) 👋
 
 <a href="https://stackoverflow.com/users/9266709/sujeet-agrahari">
   <img align="left" alt="Sujeet Agrahari | Stackoverflow" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
