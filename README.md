@@ -1,7 +1,7 @@
 ### Hi there, I'm [Vinit!](https://vinitbolla10.github.io/vinit/) 👋
 
 <a href="https://stackoverflow.com/users/9266709/sujeet-agrahari">
-  <img align="left" alt="Sujeet Agrahari | Stackoverflow" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
+  <img align="left" alt="Vinit Bolla | Stackoverflow" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sujeet-agrahari-a2b6a9110/">
   <img align="left" alt="Sujeet's Linkedin" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
