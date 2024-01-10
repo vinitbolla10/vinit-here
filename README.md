@@ -1,23 +1,23 @@
 ### Hi there, I'm [Vinit!](https://vinitbolla10.github.io/vinit/) 👋
 
-<a href="https://stackoverflow.com/users/9266709/sujeet-agrahari">
+<a href="https://stackoverflow.com/users/8767848/vinit-bolla">
   <img align="left" alt="Vinit Bolla | Stackoverflow" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/f0ed6f40199661d7f7c28092048f09ffea51971e/assets/stackoverflow.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sujeet-agrahari-a2b6a9110/">
-  <img align="left" alt="Sujeet's Linkedin" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vinit-bolla-a4ba48123/">
+  <img align="left" alt="Vinit's Linkedin" width="25px" src="https://raw.githubusercontent.com/sujeet-agrahari/sujeet-agrahari/75525ebae050d9008020a955d02912e7edcc3af3/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/SujeetAgrahari_">
-  <img align="left" alt="Sujeet Agrahari | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/vinitbolla10">
+  <img align="left" alt="Vinit Bolla | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 
 <br />
 <br />
 
-Hi, I'm Sujeet Agrahari, a passionate self-taught backend developer from India.
+Hi, I'm Vinit BOlla, a passionate self-motivated backend developer from India.
 
-- 🔭 I’m currently working on a project [Chatty](https://github.com/sujeet-agrahari/Chatty)
-- 🌱 I’m currently learning NestJs & Typescript
+- 🔭 I’m currently working on a project Apple's IDMS project.
+- 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on [Awesome Database Design](https://github.com/sujeet-agrahari/awesome-database-design)
 - 💬 Ask me about anything [here](https://github.com/sujeet-agrahari/sujeet-agrahari/issues)
 
