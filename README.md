@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Vinit BOlla, a passionate self-motivated backend developer from India.
+Hi, I'm Vinit Bolla, a passionate self-motivated backend developer from India.
 
 - 🔭 I’m currently working on a project Apple's IDMS project.
 - 🌱 I’m currently learning AI/ML
